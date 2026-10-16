@@ -343,3 +343,7 @@ make clean      # removes build tree, run homes, and recorded traces (host)
 ## License
 
 Apache License 2.0. See [LICENSE](LICENSE).
+
+## Contributing
+
+This repository is Niobium's fork of [blevergood/recessive](https://github.com/blevergood/recessive). Please open issues and pull requests on the original repository. Issues are turned off here, and pull requests are limited to collaborators.
